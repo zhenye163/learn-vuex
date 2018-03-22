@@ -21,5 +21,5 @@ npm run dev
 
 ## 结语
 
-更多信息详见与![我的博客](http://blog.csdn.net/UtopiaOfArtoria/article/details/79630190)
+更多信息详见于![我的博客](http://blog.csdn.net/UtopiaOfArtoria/article/details/79630190)
 
