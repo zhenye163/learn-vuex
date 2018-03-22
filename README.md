@@ -1,29 +1,25 @@
 # learn-vuex
 
->  to learn vuex)
+## 项目相关命令
 
-## Build Setup
+```bash
+# 在Git命令行工具中，将这个项目拷贝到本地
+git clone https://github.com/zhenye163/learn-vuex
 
-``` bash
-# install dependencies
+# 用npm命令导入该项目需要的依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行该项目
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目启动后
 
-# get more information to see [zhenye163博客](http://blog.csdn.net/UtopiaOfArtoria/article/details/79630190)
+- 访问(http://localhost:8080/#/)可以进入**Vue**主页
+- 访问(http://localhost:8080/#/family)可以进入**在家吃饭**主页
+- 访问(http://localhost:8080/#/restaurant)可以进入**在餐馆吃饭**主页
+
+## 结语
+
+更多信息详见与![我的博客](http://blog.csdn.net/UtopiaOfArtoria/article/details/79630190)
+
