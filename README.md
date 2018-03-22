@@ -15,9 +15,9 @@ npm run dev
 
 ## 项目启动后
 
-- 访问(http://localhost:8080/#/)可以进入**Vue**主页
-- 访问(http://localhost:8080/#/family)可以进入**在家吃饭**主页
-- 访问(http://localhost:8080/#/restaurant)可以进入**在餐馆吃饭**主页
+- 访问 (http://localhost:8080/#/) 可以进入**Vue**主页
+- 访问 (http://localhost:8080/#/family) 可以进入**在家吃饭**主页
+- 访问 (http://localhost:8080/#/restaurant) 可以进入**在餐馆吃饭**主页
 
 ## 结语
 
